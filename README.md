@@ -58,6 +58,24 @@ Top 10 highest attrition roles show relatively high burnout and overtime levels,
 | Finance          | Financial Analyst        |       141 |   28 |     **19.86%** |   $6,255.34 |       6.07 |              30.18 |                6.15 |         4.16 |                   6.25 |
 | Marketing        | Growth Manager           |       154 |   30 |     **19.48%** |   $7,396.07 |       7.71 |              32.03 |                6.78 |         4.09 |                   6.09 |
 
+### Comparison Employees Who Stayed vs Left
+| Metric                 |    Stayed |      Left |      Difference |
+| ---------------------- | --------: | --------: | --------------: |
+| Avg. Monthly Income    | $7,054.90 | $6,694.50 |    **-$360.40** |
+| Avg. Years at Company  |      6.82 |      6.51 | **-0.31 years** |
+| Avg. Commute           | 30.72 min | 33.03 min |   **+2.31 min** |
+| Avg. Overtime          |  6.41 hrs |  8.74 hrs |   **+2.33 hrs** |
+| Avg. Burnout           |      3.85 |      5.11 |       **+1.26** |
+| Avg. Work-Life Balance |      6.31 |      5.62 |       **-0.69** |
 
+Four of the six metrics analyzed show notable differences between employees who stayed and those who left, highlighting two key areas for further analysis: Work Conditions and Compensation.
+
+
+Employees who left the company showed higher overtime and burnout levels and lower work-life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences, suggesting that workload and employee well-being should be prioritized in retention strategies.
 
 ## Business Recommendation
+- **Reduce excessive overtime** through workload redistribution and staffing adjustments.
+- **Implement burnout prevention programs** for employees in high-risk roles.
+- **Improve work-life balanc**e through flexible work arrangements and workload management.
+- **Review compensation** for lower-paid, high-attrition roles.
+- **Monitor high-risk departments and job roles** regularly using attrition KPIs.
