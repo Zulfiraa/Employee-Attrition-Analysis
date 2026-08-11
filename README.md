@@ -85,8 +85,14 @@ Four of the six metrics analyzed show notable differences between employees who 
 Employees who left the company showed higher overtime, burnout levels and lower work life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences, suggesting that workload and employee well-being should be prioritized in retention strategies.
 
 ## Business Recommendation
-- **Reduce excessive overtime** through workload redistribution and staffing adjustments.
-- **Implement burnout prevention programs** for employees in high-risk roles.
-- **Improve work-life balanc**e through flexible work arrangements and workload management.
-- **Review compensation** for lower-paid, high-attrition roles.
-- **Monitor high-risk departments and job roles** regularly using attrition KPIs.
+
+| Department / Job Role                                               | Key Finding                                                                                             | Recommended Action                                                                                                                                  |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Customer Support – Support Team Lead & Support Specialist** | Attrition tertinggi (25.37% & 25.00%), dengan burnout dan overtime relatif tinggi                       | **Review workload and staffing levels**, redistribute customer cases, and limit excessive overtime. Provide additional support during peak periods. |
+| **Customer Support – Customer Success Manager**               | Attrition 21.33%, burnout tertinggi (4.47), overtime 7.98 hrs/week, dan work-life balance rendah (5.82) | **Reduce workload pressure** through better client allocation, realistic performance targets, and regular workload reviews.                         |
+| **Sales – Account Executive & Sales Development Rep**         | Attrition 23.42% & 20.32%, dengan overtime sangat tinggi (8.44–8.51 hrs/week) dan burnout 4.44          | **Review sales targets and workload**, improve team capacity, and ensure targets are aligned with available resources.                              |
+| **Marketing – Content Strategist**                            | Attrition 24.26%, burnout 4.27 dan overtime 6.76 hrs/week                                               | **Improve workload planning and project allocation**, especially during periods with multiple campaigns or tight deadlines.                         |
+| **Finance – Finance Manager**                                 | Attrition 21.01% meskipun income relatif tinggi ($8,038)                                                | **Look beyond compensation** by reviewing workload, management pressure, career progression, and work-life balance.                                 |
+| **High-Attrition, Lower-Income Roles**                        | Support Specialist memiliki income terendah ($4,730) sekaligus attrition tinggi                         | **Conduct a compensation review** and assess whether pay is competitive relative to workload and job responsibilities.                              |
+| **All High-Risk Roles**                                       | Employees who left had higher overtime (8.74 vs 6.41) and burnout (5.11 vs 3.85)                        | **Establish an early-warning monitoring system** using overtime, burnout, engagement, and attrition indicators.                                     |
+
