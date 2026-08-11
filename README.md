@@ -1,5 +1,5 @@
 # Employee-Attrition-Analysis
-
+The project analyzes employee data to identify attrition patterns across departments and job roles. The analysis includes data validation, attrition rate analysis, comparison of employees who stayed and left, identification of key attrition related factors, and data-driven retention recommendations.
 ## Business Problem
 The company has an employee attrition rate of 17.91%, with 878 employees leaving out of 4,902. This level of turnover may increase recruitment costs and affect workforce stability. The company needs to identify the main factors driving attrition and develop targeted strategies to retain high-risk employees.
 ## Questions (KPIs)
@@ -13,10 +13,22 @@ The company has an employee attrition rate of 17.91%, with 878 employees leaving
 - Which employee groups are most at risk of leaving?
 - What retention strategies should HR prioritize?
 ## Tools Used
-- SQL : 
+- MySQL : data querying, data cleaning, aggregation, and analysis
+- SQL : calculating attrition rates, grouping employees, and comparing attrition-related factors
+- GitHub : project documentation, SQL scripts, and portfolio presentation
+- Excel (jika digunakan) : data validation and visualization
 ## Dataset
-[Employee Attrition & HR Analytics 2026](https://www.kaggle.com/datasets/uditjain13/employee-attrition-and-hr-analytics-2026)
+Data used: [Employee Attrition & HR Analytics 2026](https://www.kaggle.com/datasets/uditjain13/employee-attrition-and-hr-analytics-2026)
 ## Process
+- Validate the data by checking for missing values, duplicates, inconsistencies, and anomalies.
+- Clean and prepare the data by ensuring consistent data types, formats, and values.
+- Calculate the overall attrition rate and compare employees who stayed with those who left.
+- Analyze attrition by department and job role to identify high-risk employee groups.
+- Analyze potential attrition factors, including income, overtime, burnout, commute time, and work-life balance.
+- Compare employees who stayed and those who left based on average attrition factors
+- Summarize key findings and develop data-driven retention recommendations based on the analysis.
+
+Code : [SQL Code](./Employee%20Attrition%20Analysis.sql)
 
 ## Results
 ### KPI Overview
