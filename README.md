@@ -20,12 +20,16 @@ The company has an employee attrition rate of 17.91%, with 878 employees leaving
 
 ## Results
 ### KPI Overview
+<div align="center">
+  
 | KPI              |     Result |
 | ---------------- | ---------: |
 | Total Employees  |  **4,902** |
 | Employees Left   |    **878** |
 | Employees Stayed |  **4,024** |
 | Attrition Rate   | **17.91%** |
+
+</div>
 
 ### Attrition by Department & Job Role
 <p align="center">
@@ -59,6 +63,8 @@ Top 10 highest attrition roles show relatively high burnout and overtime levels,
 | Marketing        | Growth Manager           |       154 |   30 |     **19.48%** |   $7,396.07 |       7.71 |              32.03 |                6.78 |         4.09 |                   6.09 |
 
 ### Comparison Employees Who Stayed vs Left
+<div align="center">
+  
 | Metric                 |    Stayed |      Left |      Difference |
 | ---------------------- | --------: | --------: | --------------: |
 | Avg. Monthly Income    | $7,054.90 | $6,694.50 |    **-$360.40** |
@@ -67,6 +73,8 @@ Top 10 highest attrition roles show relatively high burnout and overtime levels,
 | Avg. Overtime          |  6.41 hrs |  8.74 hrs |   **+2.33 hrs** |
 | Avg. Burnout           |      3.85 |      5.11 |       **+1.26** |
 | Avg. Work-Life Balance |      6.31 |      5.62 |       **-0.69** |
+
+</div>
 
 Four of the six metrics analyzed show notable differences between employees who stayed and those who left, highlighting two key areas for further analysis: Work Conditions and Compensation.
 <p align="center">
