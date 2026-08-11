@@ -69,9 +69,12 @@ Top 10 highest attrition roles show relatively high burnout and overtime levels,
 | Avg. Work-Life Balance |      6.31 |      5.62 |       **-0.69** |
 
 Four of the six metrics analyzed show notable differences between employees who stayed and those who left, highlighting two key areas for further analysis: Work Conditions and Compensation.
+<p align="center">
+<img width="45%" alt="Work Conditions" src="https://github.com/user-attachments/assets/f9f29d22-4bed-44ea-983c-59df6d66e0d5" />
+<img width="45%" alt="Compensation" src="https://github.com/user-attachments/assets/035b90a4-27a0-4172-a9df-ecaba2e77130" />
+</p>
 
-
-Employees who left the company showed higher overtime and burnout levels and lower work-life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences, suggesting that workload and employee well-being should be prioritized in retention strategies.
+Employees who left the company showed higher overtime, burnout levels and lower work life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences, suggesting that workload and employee well-being should be prioritized in retention strategies.
 
 ## Business Recommendation
 - **Reduce excessive overtime** through workload redistribution and staffing adjustments.
