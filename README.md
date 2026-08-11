@@ -13,10 +13,11 @@ The company has an employee attrition rate of 17.91%, with 878 employees leaving
 - Which employee groups are most at risk of leaving?
 - What retention strategies should HR prioritize?
 ## Tools Used
-- MySQL : data querying, data cleaning, aggregation, and analysis
-- SQL : calculating attrition rates, grouping employees, and comparing attrition-related factors
+- MySQL  : data querying, data cleaning, aggregation, and analysis
+- SQL    : calculating attrition rates, grouping employees, and comparing attrition-related factors
+- Excel  : data validation and visualization
 - GitHub : project documentation, SQL scripts, and portfolio presentation
-- Excel (jika digunakan) : data validation and visualization
+
 ## Dataset
 Data used: [Employee Attrition & HR Analytics 2026](https://www.kaggle.com/datasets/uditjain13/employee-attrition-and-hr-analytics-2026)
 ## Process
