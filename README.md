@@ -96,7 +96,7 @@ Four of the six metrics analyzed show notable differences between employees who 
 <img width="45%" alt="Compensation" src="https://github.com/user-attachments/assets/035b90a4-27a0-4172-a9df-ecaba2e77130" />
 </p>
 
-Employees who left the company showed higher overtime, burnout levels and lower work life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences, suggesting that workload and employee well-being should be prioritized in retention strategies.
+Employees who left the company showed higher overtime, burnout levels and lower work life balance compared with employees who stayed. They also had slightly lower average monthly income and longer commute times. Among these factors, burnout and overtime show the most noticeable differences (> 30%), suggesting that workload and employee well-being should be prioritized in retention strategies.
 
 ## Business Recommendation
 
