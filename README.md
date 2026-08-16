@@ -78,14 +78,15 @@ Top 10 highest attrition roles show relatively high burnout and overtime levels,
 ### Comparison Employees Who Stayed vs Left
 <div align="center">
   
-| Metric                 |    Stayed |      Left |      Difference |
-| ---------------------- | --------: | --------: | --------------: |
-| Avg. Monthly Income    | $7,054.90 | $6,694.50 |    **-$360.40** |
-| Avg. Years at Company  |      6.82 |      6.51 | **-0.31 years** |
-| Avg. Commute           | 30.72 min | 33.03 min |   **+2.31 min** |
-| Avg. Overtime          |  6.41 hrs |  8.74 hrs |   **+2.33 hrs** |
-| Avg. Burnout           |      3.85 |      5.11 |       **+1.26** |
-| Avg. Work-Life Balance |      6.31 |      5.62 |       **-0.69** |
+| Metric                 |    Stayed |      Left |  Difference | % Difference |
+| ---------------------- | --------: | --------: | ----------: | -----------: |
+| Avg. Monthly Income    | $7,054.90 | $6,694.50 |    -$360.40 |   **-5.11%** |
+| Avg. Years at Company  |      6.82 |      6.51 | -0.31 years |   **-4.55%** |
+| Avg. Commute           | 30.72 min | 33.03 min |   +2.31 min |   **+7.52%** |
+| Avg. Overtime          |  6.41 hrs |  8.74 hrs |   +2.33 hrs |  **+36.35%** |
+| Avg. Burnout           |      3.85 |      5.11 |       +1.26 |  **+32.73%** |
+| Avg. Work-Life Balance |      6.31 |      5.62 |       -0.69 |  **-10.94%** |
+
 
 </div>
 
